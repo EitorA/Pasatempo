@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080P  94d3
+#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR 1080  94d3
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA", M+ LaLiga 1080 MultiAudio  d3de
