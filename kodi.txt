@@ -148,7 +148,7 @@ plugin://script.module.horus?action=play&id=68697ea4f261289d97bbc3418ad3cbc4180a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2", M+ LIGA DE CAMPEONES 3 (OPCIÓN 1)
 plugin://script.module.horus?action=play&id=3618edda333dad5374ac2c801f5f14483934b97d
 
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2", M+ LIGA DE CAMPEONES 3 (OPCIÓN 2)
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2", M+ LIGA DE CAMPEONES 3 (OPCIÓN 2)
 plugin://script.module.horus?action=play&id=0b348cc1ae499e810729661878764a0fab88ab69
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3", M+ LIGA DE CAMPEONES 4
