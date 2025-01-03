@@ -29,6 +29,9 @@ plugin://script.module.horus?action=play&id=6d05b31e5e8fdae312fbd57897363a7b10dd
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", M+ LALIGA TV (OPCIÓN 3)
 plugin://script.module.horus?action=play&id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 4)
+plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 1)
 plugin://script.module.horus?action=play&id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
@@ -72,6 +75,9 @@ plugin://script.module.horus?action=play&id=775abd8697715c48a357906d40734ccd2a10
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 3)
 plugin://script.module.horus?action=play&id=8edb264520569b2280c5e86b2dc734e120032903
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 4)
+plugin://script.module.horus?action=play&id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1", M+ LIGA DE CAMPEONES 2 (OPCIÓN 1)
 plugin://script.module.horus?action=play&id=c070cdb701fc46bb79d17568d99fc64620443d63
@@ -236,16 +242,16 @@ plugin://script.module.horus?action=play&id=070f82d6443a52962d6a2ed9954c979b2940
 
 # CANALES VIEJOS LALIGA TV
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 4)
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 5)
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 5)
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 6)
 plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 6)
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 7)
 plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 7)
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 8)
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
 # ----------------------------------------------
 
