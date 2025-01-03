@@ -34,6 +34,9 @@ plugin://script.module.horus?action=play&id=83c6c4942d69f4aa324aa746c5d7dbfd7d15
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 2)
 plugin://script.module.horus?action=play&id=f31a586422c9244196c810c84b6c85da350318a5
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20UHD.png", M+ LALIGA TV UHD
+plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 # ----------------------------------------------
 
 
