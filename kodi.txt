@@ -232,3 +232,20 @@ plugin://script.module.horus?action=play&id=fcc0fd75bf1dba40b108fcf0d3514e0e549b
 plugin://script.module.horus?action=play&id=cc5782d37ae6b6e0bab396dd64074982d0879046
 
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png", M+ DEPORTES 7
+plugin://script.module.horus?action=play&id=070f82d6443a52962d6a2ed9954c979b29404932
+
+# CANALES VIEJOS LALIGA TV
+# ----------------------------------------------
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 4)
+plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 5)
+plugin://script.module.horus?action=play&id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 6)
+plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a774a5
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 7)
+plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
+# ----------------------------------------------
+
