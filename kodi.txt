@@ -11,13 +11,6 @@ plugin://script.module.horus?action=play&id=608b0faf7d3d25f6fe5dba13d5e4b4142949
 # ----------------------------------------------
 
 
-# CANAL GENÉRICO MOVISTAR PLUS
-# ----------------------------------------------
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M PLUS+
-plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
-# ----------------------------------------------
-
-
 # CANALES LALIGA TV
 # ----------------------------------------------
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", M+ LALIGA TV (OPCIÓN 1)
@@ -121,6 +114,13 @@ plugin://script.module.horus?action=play&id=a929eeec1268d69d1556a2e3ace793b2577d
 
 # OTROS CANALES MOVISTAR
 # ----------------------------------------------
+
+# CANAL GENÉRICO MOVISTAR PLUS
+# ----------------------------------------------
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M PLUS+
+plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
+# ----------------------------------------------
+
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png", M+ DEPORTES (OPCIÓN 1)
 plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
