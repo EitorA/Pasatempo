@@ -253,5 +253,11 @@ plugin://script.module.horus?action=play&id=1969c27658d4c8333ab2c0670802546121a7
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 8)
 plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf198108d8
+
 # ----------------------------------------------
 
+#EXTINF:-1 PRUEBAS
+plugin://script.module.horus?action=play&id=9a68b2c49e1c679cc5801169c4b4ec3f99dfa0ab
+
+#EXTINF:-1 PRUEBAS
+plugin://script.module.horus?action=play&id=fee5612d57824b6e8db780f210ec54093056dc3a
