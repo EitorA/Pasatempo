@@ -256,8 +256,8 @@ plugin://script.module.horus?action=play&id=f031f5728b32f6089dda28edebe990cf1981
 
 # ----------------------------------------------
 
-#EXTINF:-1 PRUEBAS
+#EXTINF:-1,PRUEBAS
 plugin://script.module.horus?action=play&id=9a68b2c49e1c679cc5801169c4b4ec3f99dfa0ab
 
-#EXTINF:-1 PRUEBAS
+#EXTINF:-1,PRUEBAS
 plugin://script.module.horus?action=play&id=fee5612d57824b6e8db780f210ec54093056dc3a
