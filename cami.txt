@@ -105,10 +105,10 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 # CANALES 1a FEF
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="FEF TV 1 Grupo 1" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/FEF_TV_Logo.png", FEF TV - PRIMERA FEDERACIÓN, GRUPO 1
+#EXTINF:-1 tvg-id="FEF TV 1 Grupo 1" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/FEF_TV_Logo.png", FEF TV - PRIMERA FEDERACIÓN GRUPO 1
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d 
 
-#EXTINF:-1 tvg-id="FEF TV 1 Grupo 2" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/FEF_TV_Logo.png", FEF TV - PRIMERA FEDERACIÓN, GRUPO 2
+#EXTINF:-1 tvg-id="FEF TV 1 Grupo 2" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/FEF_TV_Logo.png", FEF TV - PRIMERA FEDERACIÓN GRUPO 2
 acestream://8677d339ecddd75165c0015025f598b6215974cf 
 # ----------------------------------------------
 
