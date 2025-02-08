@@ -8,6 +8,20 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 2)
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 3)
+acestream://a7a545d5f8040ca6626aa24f550c286642f24928
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 4)
+acestream://eb3fe9045283703e50f338428e22471350660015
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 5)
+acestream://954b2cb573313690f2a6d6a2e70102fb49ace952
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 6)
+acestream://5834660ff7ae10f0514dc23c241c054dc0272d01
+
+
 # ----------------------------------------------
 
 
@@ -25,6 +39,18 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 4)
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 5)
+acestream://7fc274f1bccb3d755c8e0760459bd81056eb998f
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 6)
+acestream://4f416d74e9feb1812f7d10c637e46d40ebab3e2b
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 7)
+acestream://f5a769b1d4d97673dcaae415bf197706a8056428
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 8)
+acestream://b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
+
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 1)
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
@@ -34,7 +60,7 @@ acestream://f31a586422c9244196c810c84b6c85da350318a5
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20UHD.png", M+ LALIGA TV UHD
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+acestream://7138311a683384297b7ba47020badf454a4376aa
 # ----------------------------------------------
 
 
@@ -140,8 +166,11 @@ acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
 
 # CANAL GENÉRICO MOVISTAR PLUS
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M PLUS+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M PLUS+ (OPCIÓN 1)
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M PLUS+ (OPCIÓN 2)
+acestream://bf270b6486daf3a2aa54bc027fd7cb02401a447a
 # ----------------------------------------------
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png", M+ DEPORTES (OPCIÓN 1)
