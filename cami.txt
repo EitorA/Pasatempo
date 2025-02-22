@@ -3,24 +3,27 @@
 
 # CANALES LA LIGA TV BAR
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", ELCANO - LALIGA TV BAR (OPCIÓN 1)
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 1)
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", ELCANO - LALIGA TV BAR (OPCIÓN 2)
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 2)
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 3)
+acestream://94423f1646ded48f1125a7395815e1a52539c187
 
 # ----------------------------------------------
 
 
 # CANALES LALIGA TV
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", ELCANO - M+ LALIGA TV (OPCIÓN 1)
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", M+ LALIGA TV (OPCIÓN 1)
 acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", ELCANO - M+ LALIGA TV (OPCIÓN 2)
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", M+ LALIGA TV (OPCIÓN 2)
 acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", ELCANO - M+ LALIGA TV (OPCIÓN 3)
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", M+ LALIGA TV (OPCIÓN 3)
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 
 
@@ -28,89 +31,47 @@ acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 5)
-acestream://b8370220a0338f9eb4728467111a2bce1033b80b
-
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 6)
-acestream://f5fcacb60627d6319b89942391e441d179dbb9d9
-
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20HD.png", M+ LALIGA TV (OPCIÓN 7)
-acestream://b308f69384b9be8c5cfdcb45cfcc3d595b0cbaa1
-
-
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", ELCANO - M+ LALIGA TV 2 (OPCIÓN 1)
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 1)
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", ELCANO - M+ LALIGA TV 2 (OPCIÓN 2)
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 2)
 acestream://f31a586422c9244196c810c84b6c85da350318a5
-
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 3)
-acestream://aeb4beec9a3639f1bed7bd56a20f3afe7186cae3
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20UHD.png", M+ LALIGA TV UHD
-acestream://63b976bbf9bbd0c37117880b8b33702b95357ef3
+acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
 # ----------------------------------------------
 
 
 # CANALES DZN LALIGA
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", ELCANO - DAZN LALIGA (OPCIÓN 1)
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", DAZN LALIGA (OPCIÓN 1)
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", ELCANO - DAZN LALIGA (OPCIÓN 2)
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", DAZN LALIGA (OPCIÓN 2)
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", ELCANO - DAZN LALIGA (OPCIÓN 3)
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", DAZN LALIGA (OPCIÓN 3)
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", ELCANO - DAZN LALIGA (OPCIÓN 4)
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", DAZN LALIGA (OPCIÓN 4)
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", NEW ERA ii - DAZN LALIGA (OPCIÓN 5)
-acestream://b5f549da9cafaffab01fb04567ce8a5ad4416b5c
 
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", DAZN LALIGA (OPCIÓN 6)
-acestream://28c8115681bf6e4565cb5e987530c2f606cc561f
-
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20LaLiga%20HD.png", DAZN LALIGA (OPCIÓN 7)
-acestream://dad36d37fa74b94e345bb014d82d820e54fb69d8
-
-
-
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", ELCANO - DAZN LALIGA 2 (OPCIÓN 1)
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LALIGA 2 (OPCIÓN 1)
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", ELCANO - DAZN LALIGA 2 (OPCIÓN 2)
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LALIGA 2 (OPCIÓN 2)
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
-
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LALIGA 2 (OPCIÓN 3)
-acestream://c79b272e20f31d1be9103f582e87209a06a63927
 # ----------------------------------------------
 
 
 # CANALES CHAMPIONS LEAGUE
 # ----------------------------------------------
-
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 1)
-acestream://ee5ffa2c47cad5f00276904722e9d234def6f14a
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 2)
-acestream://41b7ce31e38e4bbf3ac730d663b71725673ace50
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 3)
-acestream://05178312d29cd206a2f81262d896ed872f0555f8
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 4)
-acestream://6f65182b200e3833fa1fdda791ba5d965a6a5ea7
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES UHD
-acestream://ccd343d56e3804cb94f19495595fb74f5a7fb687
-
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 5)
 acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 6)
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 2)
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 
 
@@ -124,17 +85,20 @@ acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 
 # CANALES SEGUNDA DIVISIÓN
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion.png", ELCANO - LALIGA TV HYPERMOTION (OPCIÓN 1)
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion.png", LALIGA TV HYPERMOTION (OPCIÓN 1)
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion.png", ELCANO - LALIGA TV HYPERMOTION (OPCIÓN 2)
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion.png", LALIGA TV HYPERMOTION (OPCIÓN 2)
 acestream://121f719ebb94193c6086ef92865cf9b197750980
 
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion.png", LALIGA TV HYPERMOTION (OPCIÓN 3)
+acestream://9d0e983a628a79ec63ae599d2abc8b787e43aa68
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion%202.png", ELCANO - LALIGA TV HYPERMOTION 2 (OPCIÓN 1)
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion%202.png", LALIGA TV HYPERMOTION 2 (OPCIÓN 1)
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion%202.png", ELCANO - LALIGA TV HYPERMOTION 2 (OPCIÓN 2)
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20Hypermotion%202.png", LALIGA TV HYPERMOTION 2 (OPCIÓN 2)
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 # ----------------------------------------------
 
@@ -150,53 +114,7 @@ acestream://8677d339ecddd75165c0015025f598b6215974cf
 # OTROS CANALES MOVISTAR
 # ----------------------------------------------
 
-# CANAL GENÉRICO MOVISTAR PLUS
-# ----------------------------------------------
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M PLUS+ (OPCIÓN 1)
-acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png", M PLUS+ (OPCIÓN 2)
-acestream://682579275d24fa95964f99f3778bdd22c211c6b9
-# ----------------------------------------------
-
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png", M+ DEPORTES (OPCIÓN 1)
-acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png", M+ DEPORTES (OPCIÓN 2)
-acestream://3a74d9869b13e763476800740c6625e715a39879
-
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png", M+ DEPORTES (OPCIÓN 3)
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png", M+ DEPORTES (OPCIÓN 4)
-acestream://ce65932b1113ec32c270050786d7702897150d74
-
-
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202%20HD.png", M+ DEPORTES 2
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-
-
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png", #VAMOS (OPCIÓN 1)
-acestream://8c1e181e99425c729cdf12c21fccaf07ea106a49
-
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png", #VAMOS (OPCIÓN 2)
-acestream://472b73d3c63fe53c3a95644f20aab65b31a6e506
-
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png", #VAMOS (OPCIÓN 3)
-acestream://7ea69506cdde10da9d85a2414310a7e5afcdba19
-
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos%20HD.png", #ELLAS
-acestream://f317a4fef0b96caabaaad25cadb5f45303544767
-
-
-#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Copa%20del%20Rey.png", M+ COPA DEL REY (OPCIÓN 1)
-acestream://d282167ec84abdb4f5ed4c4856ea4284ac00991f
-
-#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Copa%20del%20Rey.png", M+ COPA DEL REY (OPCIÓN 2)
-acestream://6118cada4cbe7650eeb21d170e184c26a4cdc808
-
-#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Copa%20del%20Rey.png", M+ COPA DEL REY (OPCIÓN 3)
-acestream://894afd347da576af7bbfc0b986485581b8df151b
-
 
 # ----------------------------------------------
