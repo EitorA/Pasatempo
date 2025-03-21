@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD", MOVISTAR PLUS+
+acestream://335646e7394ea4eda343c95e57852bb70fc4178f
 
 # CANALES LA LIGA TV BAR
 # ----------------------------------------------
