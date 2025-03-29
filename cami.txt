@@ -139,10 +139,10 @@ acestream://a8745bd07dc60413a4fc05caf2cabbfb11952232
 acestream://fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ VAMOS (OPCIÓN 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD", M+ VAMOS (OPCIÓN 1)
 acestream://6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ VAMOS (OPCIÓN 2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD", M+ VAMOS (OPCIÓN 2)
 acestream://c6b52ffb3b84836d334569204797d88bf15d48fa
 
 # ----------------------------------------------
