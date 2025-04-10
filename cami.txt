@@ -76,22 +76,22 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 3)
-acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
+acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 4)
-acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
+acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png", M+ LIGA DE CAMPEONES (OPCIÓN 5)
-acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
+acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES (OPCIÓN 6)
-acestream://fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
+acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES (OPCIÓN 7) 
-acestream://05057e832dd1530c7d5e8b0857fee6826243a243
+acestream://a9025d4e168764248d33129c30940502cea0e1c2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES (OPCIÓN 8)
-acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
+acestream://47223e64a576c21bd61e818a42397a753d34fba5
 
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1", M+ LIGA DE CAMPEONES 2 (OPCIÓN 1)
