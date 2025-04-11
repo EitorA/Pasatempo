@@ -304,7 +304,7 @@ acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGVmRcSH/hits.png" tvg-id="M+ Hits HD", M+ HITS
 acestream://2752dee68a7faa9c847216dc22a6821661db891a
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/accion-por-movistar-plus-logo-png_seeklogo-492846.png" tvg-id="M+ Acción HD", M+ ACCIÓN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/accion.png" tvg-id="M+ Acción HD", M+ ACCIÓN
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD", M+ CLÁSICOS
