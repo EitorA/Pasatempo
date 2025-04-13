@@ -1,15 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 
-# CANALES LA LIGA TV BAR
-# ----------------------------------------------
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 1)
-acestream://94d34491106e00394835c8cb68aa94481339b53f
-
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 2)
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-# ----------------------------------------------
-
-
 # CANALES LALIGA TV POR MOVISTAR+
 # ----------------------------------------------
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/CanalJournes.png", M+ LALIGA TV (OPCIÓN 1)
@@ -116,6 +106,14 @@ acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 # ----------------------------------------------
 
+# CANALES LA LIGA TV BAR
+# ----------------------------------------------
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 1)
+acestream://94d34491106e00394835c8cb68aa94481339b53f
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 2)
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+# ----------------------------------------------
 
 # CANALES SEGUNDA DIVISIÓN
 # ----------------------------------------------
