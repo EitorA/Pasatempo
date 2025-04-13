@@ -8,7 +8,7 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 2)
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 3)
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN PRUEBA)
 acestream://edbd01a232af0eff375c6a174e68f28002e7c090
 # ----------------------------------------------
 
