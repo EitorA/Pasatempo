@@ -18,6 +18,7 @@ acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20UHD.png", M+ LALIGA TV UHD (OPCIÓN 2)
 acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 1)
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 
