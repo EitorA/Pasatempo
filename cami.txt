@@ -64,7 +64,7 @@ acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL3", DAZN LALIGA 3
-acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
+acestream://3c72639799f5471b213a073f4c1c6bf28b
 # ----------------------------------------------
 
 
