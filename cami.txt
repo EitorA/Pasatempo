@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 
+
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
 # CANALES LALIGA TV POR MOVISTAR+
 # ----------------------------------------------
 
@@ -20,6 +24,9 @@ acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20UHD.png", M+ LALIGA TV UHD (OPCIÓN 2)
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20LaLiga%20TV%20UHD.png", M+ LALIGA TV UHD (OPCIÓN 3)
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LALIGA TV 2 (OPCIÓN 1)
@@ -61,6 +68,10 @@ acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LALIGA 2 (OPCIÓN 2)
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+
+
+#EXTINF:-1 tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL3", DAZN LALIGA 3
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 # ----------------------------------------------
 
 
@@ -335,6 +346,7 @@ acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/LaLiga%20TV%20BAR%20HD.png", LALIGA TV BAR (OPCIÓN 2)
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
 # ----------------------------------------------
 
 
