@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="GuiaPersonalizadaAdrian">
   <channel id="Adrian">
-    <display-name lang="es">MENSAXE DE BENVIDA</display-name>
+    <display-name lang="es">BENVIDA</display-name>
   </channel>
   <programme start="20250621160000 +0000" stop="20250621170000 +0000" channel="Adrian">
     <title lang="es">¡Benvido á lista de canles!</title>
