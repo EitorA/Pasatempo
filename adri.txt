@@ -6,4 +6,3 @@
 # ----------------------------------------------
 #EXTINF:-1 tvg-id="Bienvenida.Adrian" tvg-name="MENSAJE DE BIENVENIDA" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adri.png", ★★★ MENSAXE DE BENVIDA ★★★
 http://localhost
-
