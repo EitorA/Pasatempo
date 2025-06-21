@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv generator-info-name="GuiaPersonalizadaAdrian">
+
+  <channel id="Bienvenida.Adrian">
+  
+    <display-name lang="gl">MENSAXE DE BENVIDA</display-name>
+    
+  </channel>
+  
+  <programme start="20240101000000 +0000" stop="20991231235959 +0000" channel="Bienvenida.Adrian">
+  
+    <title lang="gl">¡Benvido á lista de canles!</title>
+    
+    <desc lang="gl">
+Esta lista de canles foi creada por Adrián. Ofrécense distintas opcións para cada canle co fin de ofrecer a mellor experiencia nas retransmisións en directo.
+Se unha canle non funciona, proba coa seguinte opción dispoñible. 
+A disfrutar do contido!
+    </desc>
+    
+    <!-- <icon src="https://i.imgur.com/U5n2zVv.png" /> -->
+    
+  </programme>
+  
+</tv>
