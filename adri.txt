@@ -4,5 +4,5 @@
 # ----------------------------------------------
 # ---- MENSAXE DE BENVIDA ----
 # ----------------------------------------------
-#EXTINF:-1 tvg-id="Bienvenida.Adrian" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adri.png", ★★★ MENSAXE DE BENVIDA ★★★
+#EXTINF:-1 tvg-id="Bienvenida.Adrian" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adri.png", ★ BENVIDA ★
 http://localhost
