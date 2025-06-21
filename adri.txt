@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/EitorA/Pasatempo/main/mi_guia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/EitorA/Pasatempo/main/mi_guia.xml"
 
 # ----------------------------------------------
 # ---- MENSAXE DE BENVIDA ----
