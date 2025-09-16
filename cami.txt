@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
+#EXTINF:-1 tvg-id="" tvg-logo="",CANALES A. EITOR
+http://localhost/none
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HDR",M+ LALIGA HD ESTABLE
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 
@@ -671,3 +674,4 @@ acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.nl",ZIGGO.SPORT.NL ESTABLE
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+
