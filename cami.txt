@@ -87,6 +87,9 @@ acestream://778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3",LALIGA TV HYPERMOTION 3 OPC. 2
 acestream://1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD",M+ LIGA DE CAMPEONES HD ESTABLE
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD",M+ LIGA DE CAMPEONES HD OPC. 1
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 
@@ -674,4 +677,5 @@ acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.nl",ZIGGO.SPORT.NL ESTABLE
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+
 
