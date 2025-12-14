@@ -1,4 +1,0 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" tvg-id="M+ LaLiga HDR",M+ LALIGA HDR
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
