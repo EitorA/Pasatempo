@@ -1,8 +1,0 @@
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/EitorA/Pasatempo/main/mi_guia.xml"
-
-# ----------------------------------------------
-# ---- MENSAXE DE BENVIDA ----
-# ----------------------------------------------
-#EXTINF:-1 tvg-id="Adrian" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adri.png", BENVIDA
-http://localhost
