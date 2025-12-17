@@ -24,6 +24,19 @@ acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD OPC. 6
 acestream://107c3ce5a5d2527c9f06e4eab87477201791f231
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD OPC. 7
+acestream://8c30b600cc48899991b452805df48b68d998e61c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD",M+ LALIGA 2 HD OPC. 1
+acestream://51b363b1c4d42724e05240ad068ad219df8042ec
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD",M+ LALIGA 2 HD OPC. 2
+acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD",M+ LALIGA 2 HD ESTABLE
+acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD",M+ LALIGA 2 HD OPC. 3
 acestream://911ad127726234b97658498a8b790fdd7516541d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD",M+ LALIGA 3 HD OPC. 1
