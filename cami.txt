@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/LOGO.png",CANALES ADRIÁN EITOR
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/LOGO.png",CANLES TV - A. EITOR
 http://localhost/none
 
 
