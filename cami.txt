@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adrian.png",CANALES A. EITOR
-http://localhost/none
+http://portada.invalid
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD ESTABLE
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
