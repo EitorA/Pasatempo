@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adrian.png",CANALES A. EITOR
 acestream://invalid
 
+#EXTINF:-1 tvg-logo="https://estaticos.esmadrid.com/cdn/farfuture/8xAub6HQwUtw5WixYyeGlgGYobxBg0ixfJjiVcXO36k/mtime:1682064414/sites/default/files/styles/content_type_full/public/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg?itok=Mb5Vv7Pd" tvg-id="M+ Liga de Campeones HD",RMA - MCI
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1 tvg-logo="https://estaticos.esmadrid.com/cdn/farfuture/8xAub6HQwUtw5WixYyeGlgGYobxBg0ixfJjiVcXO36k/mtime:1682064414/sites/default/files/styles/content_type_full/public/eventos/eventos/real_madrid_-_manchester_city_uefa_champions_league_1.jpg?itok=Mb5Vv7Pd" tvg-id="M+ Liga de Campeones HD",RMA - MCI
+acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD ESTABLE
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
