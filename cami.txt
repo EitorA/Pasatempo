@@ -3,6 +3,17 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adrian.png",CANALES A. EITOR
 acestream://invalid
 
+
+#EXTINF:-1 tvg-logo="https://okdiario.com/diariomadridista/img/2026/04/03/previa-madrid-interior-5-655x368.jpg",MAL - RMA (4:15)
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=5zrsjv0krw12eg6n2ta5htd5o_image-header_pEs_1773411015000&quality=50" tvg-id="LaLiga TV Hypermotion HD",DEP - MAL (6:30)
+acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+
+#EXTINF:-1 tvg-logo="https://www.fcbarcelona.com/photo-resources/2026/02/09/96f7f09a-d10c-4cb2-a6c6-0d79be3b8d61/TIMEZONES-escuts-ATLETIC-MADIRD.jpg?width=1200&height=750" tvg-id="DAZN LaLiga HD",ATM - BAR (9:00)
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD ESTABLE
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
