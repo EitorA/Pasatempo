@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adrian.png",CANALES A. EITOR
 acestream://invalid
 
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6hnybgvhvuset8to2evszduvy_image-header_pEs_1776154716000" tvg-id="LaLiga TV Hypermotion 2",VLL - DEP
+acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6hnybgvhvuset8to2evszduvy_image-header_pEs_1776154716000" tvg-id="LaLiga TV Hypermotion 2",VLL - DEP
+acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD ESTABLE
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
@@ -104,6 +110,13 @@ acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD",DAZN LALIGA 2 HD OPC. 2
 acestream://635b61c1f240449163260cd914d10d886a54fee3
+
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6hnybgvhvuset8to2evszduvy_image-header_pEs_1776154716000" tvg-id="LaLiga TV Hypermotion 2",VLL - DEP
+acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6hnybgvhvuset8to2evszduvy_image-header_pEs_1776154716000" tvg-id="LaLiga TV Hypermotion 2",VLL - DEP
+acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD",LALIGA TV HYPERMOTION HD OPC. 1
 acestream://1f75d92098580443857caa95a719103cb83781b0
