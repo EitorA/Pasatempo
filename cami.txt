@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 1 * --> ELCANO
-acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
-
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 1 ** --> ELCANO
-acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
-
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 2 * --> ELCANO
-acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7
-
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 2 ** --> ELCANO
-acestream://63b1933154919d116f08e33ffcb31a23f9483989
-
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 3 * --> ELCANO
-acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415
-
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 3 ** --> ELCANO
-acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
-
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 4 * --> ELCANO
-acestream://584e20154750a15d14cb59953bb9cdd923c331bb
-
-#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 4 ** --> ELCANO
-acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adrian.png",CANALES A. EITOR
 acestream://invalid
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial HD",DAZN MUNDIAL HD OPC. 1
+acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial HD",DAZN MUNDIAL HD OPC. 2
+acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 2 HD",DAZN MUNDIAL 2 HD OPC. 1
+acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 2 HD",DAZN MUNDIAL 2 HD OPC. 2
+acestream://63b1933154919d116f08e33ffcb31a23f9483989
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 3",DAZN MUNDIAL 3 OPC. 1
+acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 3",DAZN MUNDIAL 3 OPC. 2
+acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 4",DAZN MUNDIAL 4 OPC. 1
+acestream://584e20154750a15d14cb59953bb9cdd923c331bb
+
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 4",DAZN MUNDIAL 4 OPC. 2
+acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD ESTABLE
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
