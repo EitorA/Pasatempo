@@ -3,18 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adrian.png",CANALES A. EITOR
 acestream://invalid
 
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial HD",DAZN MUNDIAL HD OPC. 1
-acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 2 HD",DAZN MUNDIAL 2 HD OPC. 1
-acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 3",DAZN MUNDIAL 3 OPC. 1
-acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415
-
-#EXTINF:-1 tvg-logo="" tvg-id="DAZN Mundial 4",DAZN MUNDIAL 4 OPC. 1
-acestream://584e20154750a15d14cb59953bb9cdd923c331bb
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD ESTABLE
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
@@ -641,6 +629,18 @@ acestream://92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
 
 #EXTINF:-1 tvg-logo="" tvg-id="", Хоккейный HD (RU) --> SPORT TV
 acestream://99f0646986e9266836dd79047dedecb04e243857
+
+#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 1 --> ELCANO
+acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
+
+#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 2 --> ELCANO
+acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7
+
+#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 3 --> ELCANO
+acestream://f28f558a7699237cb4ec1e0075db4073ffc3a415
+
+#EXTINF:-1 tvg-logo="" tvg-id="", Dazn Mundial 4 --> ELCANO
+acestream://584e20154750a15d14cb59953bb9cdd923c331bb
 
 #EXTINF:-1 tvg-logo="" tvg-id="", Direct Sport+ FHDp --> ELCANO
 acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
