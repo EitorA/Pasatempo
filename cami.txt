@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EitorA/Pasatempo/refs/heads/main/adrian.png",CANALES A. EITOR
 acestream://invalid
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD", PROBAS 1
-http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD", PROBAS 2
-http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD",M+ LALIGA HD ESTABLE
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 
@@ -1001,3 +995,9 @@ acestream://c81fe6504175b77b4345a3e8b740aba1e3bf60dc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.nl",ZIGGO.SPORT.NL OPC. 1
 acestream://8e475c8b9f12270c524f88f5659cc6811fc1399c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD", PROBAS 1
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD", PROBAS 2
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
