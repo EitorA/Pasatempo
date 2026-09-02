@@ -235,6 +235,9 @@ acestream://62a5750be4d2218b1064f83afaac4770fd92350d
 acestream://b7975e28c67ed7c5831b097944761623bd52baf5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD",EUROSPORT 1 HD OPC. 7
+acestream://f9376813d80edce6335512656ee4461ad6c61263
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD",EUROSPORT 1 HD OPC. 8
 acestream://547ab7146a86d6119c9332c011669544720124e3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2",EUROSPORT 2 ESTABLE 1
@@ -728,6 +731,9 @@ acestream://ffa09e597804001f634dd1829f031823411a2595
 
 #EXTINF:-1 tvg-logo="" tvg-id="", Pluto TV Auto Motor Sport (720p) --> NEW LOOP
 acestream://93780e4164ed775a9a7cd67c44716de58463fa0a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ",BEIN SPORTS XTRA Ñ OPC. 1
+acestream://33aa6331066d7796fcab74bed23206f16bded398
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Calle%2013.png" tvg-id="Calle 13 HD",CALLE 13 HD OPC. 1
 acestream://296007b6a8c2ea9ceb7d6528f5e5e109c3142fa0
